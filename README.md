@@ -1,4 +1,4 @@
-### Hi there 👋
+### Pony Mage Merly! :unicorn:
 
 [![AuruTus's GitHub stats](https://github-readme-stats.vercel.app/api?username=AuruTus)](https://github.com/AuruTus/github-readme-stats)
 
