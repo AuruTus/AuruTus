@@ -8,6 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AuruTus" />
 </a>
 
+<br/>
 
 <a href="https://github-readme-stats.vercel.app/api?username=AuruTus">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AuruTus" />
