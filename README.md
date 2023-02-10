@@ -1,9 +1,18 @@
 ### Pony Mage Merly! :unicorn:
 
-[![AuruTus's GitHub stats](https://github-readme-stats.vercel.app/api?username=AuruTus)](https://github.com/AuruTus/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <img src=https://github-readme-stats.vercel.app/api?username=AuruTus />
+    </td>
+    <td>
+      <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=AuruTus&layout=compact />
+    </td>
+  </tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuruTus&layout=compact)](https://github.com/AuruTus/github-readme-stats)
 
+<!---->
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=AuruTus">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AuruTus" />
 </a>
