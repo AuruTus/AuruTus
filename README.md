@@ -1,4 +1,4 @@
-### Pony Mage Merly! :unicorn:
+### :unicorn: Pony Mage Merly! :unicorn:
 
 <table>
   <tr>
